@@ -1,0 +1,15 @@
+---
+title: learn ggplot2
+author: ''
+date: '2022-04-20'
+slug: []
+categories: []
+tags: []
+---
+
+```{r}
+#注释信息
+library(ggplot2)
+ggplot()+
+  geom_point(aes(x=1,y=1))
+```
